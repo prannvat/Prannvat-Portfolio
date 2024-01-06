@@ -1,1 +1,1 @@
-Fully Responsive, moder, full stack website built from scratch!
+Fully Responsive, modern, full stack website built from scratch!
